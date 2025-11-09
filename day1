@@ -2,7 +2,7 @@ Day 1:
 
 How to declare variables and write them using camel case in Swift
 
-Paul just taught us how to create variables and constants, how to update information in variables, and the difference between them. Whenever possible, we should prefer using constants instead of variables in our code.
+Paul just taught us how to create variables and constants, how to update information in variables, and the difference between them. Whenever possible, we should prefer using constants instead of variables in our code, it's better and light than using var.
 
 We also learned how to create strings and use some of their powerful properties in Swift, such as .count, .uppercased, and .lowercased.
 
