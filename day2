@@ -1,0 +1,26 @@
+Day 2:
+
+How to store truth values with Booleans and how to work with them quickly.
+
+How to join strings together.
+
+Summary:
+
+We were introduced to the Boolean type, which can store only true or false values.
+We also learned how to use operators like ! (not) and the .toggle() method to change a Boolean’s value.
+
+We explored string interpolation, which is much more powerful and readable than concatenation (e.g., using var + text + var) or manual conversions like String(Int).
+Interpolation makes code cleaner and easier to understand.
+
+Swift allows us to create both let (constants) and var (variables), but Paul highly recommends using let whenever possible to avoid mistakes.
+Constants are also slightly more efficient in Swift’s memory management.
+
+Extra notes:
+
+In Swift, strings contain text — from short words to long paragraphs — and we define them using double quotes (" ").
+
+Swift uses Int for whole numbers and Double for decimal numbers.
+
+To store true or false, we use the Bool type.
+
+String interpolation is a powerful and efficient way to include variables or expressions inside strings, making code clear and easy to read.
