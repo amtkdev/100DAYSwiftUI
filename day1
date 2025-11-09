@@ -1,0 +1,12 @@
+Day 1:
+
+How to declare variables and write them using camel case in Swift
+
+Paul just taught us how to create variables and constants, how to update information in variables, and the difference between them. Whenever possible, we should prefer using constants instead of variables in our code.
+
+We also learned how to create strings and use some of their powerful properties in Swift, such as .count, .uppercased, and .lowercased.
+
+We learned how to create and store numbers in a simple way for now.
+
+We also learned how to store decimal numbers, and that we can’t perform math operations between Int and Double types without conversion.
+For example, you can write 1_000_000 instead of 1000000 because it’s easier to read — Swift ignores the underscores.
