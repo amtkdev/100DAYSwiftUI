@@ -1,6 +1,6 @@
 Day 1:
 
-How to declare variables and write them using camel case in Swift, always try to write a good and readable code.
+How to declare variables and write them using camel case in Swift, always try to write a good and readable code. Swift is a safe type language and you will notice that when you're coding.
 
 Paul just taught us how to create variables and constants, how to update information in variables, and the difference between them. Whenever possible, we should prefer using constants instead of variables in our code, it's better and light than using var.
 
