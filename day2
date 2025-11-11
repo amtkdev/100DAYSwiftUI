@@ -24,3 +24,11 @@ Swift uses Int for whole numbers and Double for decimal numbers.
 To store true or false, we use the Bool type.
 
 String interpolation is a powerful and efficient way to include variables or expressions inside strings, making code clear and easy to read.
+
+
+
+Checkpoint 1:
+Paul challenge us to create a conversion app simple that can do temperature, length and time. 
+-I create some vars using @State to manipulate de values about reading and writing
+-switch case, to select which option the person chose
+-UnitTemperature, UnitLenght, and UnitDuration extension wich my cases and let the Swift dll hang that out for us, where you can check the project on https://github.com/amtkdev/ChallengeDAY001
